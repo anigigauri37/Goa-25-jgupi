@@ -1127,11 +1127,4 @@ turtle.end_fill()
 
 
 
-
-
-
-
-
-
-
 turtle.exitonclick()
