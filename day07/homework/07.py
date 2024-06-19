@@ -17,7 +17,7 @@ print(number4 // number2)
 print(number3 + number2 + number4)
 print(number2 * number4)
 print(number2 * number3 * number4)
-print(number3 - number2)
+print(number3 - number2) 
 print(number4 * number3)
 print(number4 + number3)
 print(number3 * number4 - number2)
@@ -45,6 +45,38 @@ print("max: besides dancing, you learn something else?")
 a = input("me: ")
 print("max: wow its very cool")
 a = input("me: ")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a = input("me: ")
+print("giga:gamarjoba")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
