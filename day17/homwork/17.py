@@ -39,3 +39,4 @@ while num1 == num2:
     break
 else:
     print("waage")
+
