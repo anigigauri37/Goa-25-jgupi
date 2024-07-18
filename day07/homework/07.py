@@ -45,43 +45,6 @@ print("max: besides dancing, you learn something else?")
 a = input("me: ")
 print("max: wow its very cool")
 a = input("me: ")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 a = input("me: ")
 print("giga:gamarjoba")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
