@@ -1,3 +1,13 @@
 h1 {
     color: rgb(84, 241, 11);
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+    color: rgb(53, 19, 245);
+    text-shadow: 4px 4px 4px rgb(110, 8, 8);
+    font-size: xx-large;
+    
+    
 }

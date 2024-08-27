@@ -20,4 +20,3 @@ while 100 >= x:
     y -= 1
     print(y)
 
-    
