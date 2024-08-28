@@ -1,7 +1,9 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     font-family: century;
+    text-align: center;
 }
 
 main{
@@ -119,10 +121,87 @@ ul li a:hover{
     padding: 10px;
     min-width: 200px;
     margin-bottom: 50px;
+}
 
+button {
+    background-color: white;
+    color: black;
+    border: none;
+    outline: none;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.144);
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
 }
 
 .col-4 img{
     width: 10%;
+}
 
+#img1, .texts {
+    position: relative;
+    right: 250px;
+}
+
+/* img {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.26);
+    border-radius: 15px;
+} */
+
+#img2, .texts2 {
+    position: relative;
+    bottom: 323px;
+}
+
+#img3, .texts3 {
+    position: relative;
+    bottom: 650px;
+    left: 250px;
+}
+
+#h4 {
+    position: relative;
+    bottom: 319px;
+}
+
+#second-h4 {
+    position: relative;
+    bottom: 645px;
+    left: 250px;
+}
+
+#img4, .texts4 {
+    position: relative;
+    bottom: 690px;
+    right: 250px;
+}
+
+#third-h4 {
+    position: relative;
+    bottom: 690px;
+    right: 250px;   
+}
+
+#img5, .texts5 {
+    position: relative;
+    bottom: 1010px;
+    right: 5px;
+}
+
+#third-h5 {
+    position: relative;
+    bottom: 1010px;
+    right: 10px;  
+}
+
+#img7, .texts7 {
+    position: relative;
+    bottom: 1010px;
+    right: 2px; 
+}
+
+#third-h6{
+    position: relative;
+    bottom: 1010px;
+    right: 5px; 
 }
